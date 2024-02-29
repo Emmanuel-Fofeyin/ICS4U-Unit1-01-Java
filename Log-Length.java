@@ -2,7 +2,7 @@
 * The program shows how to many logs can fit
 *   on a truck given the length of the logs.
 *
-* @author  Curtis Edwards
+* @author  Emmanuel.FN
 * @version 1.0
 * @since   2024-02-19
 */
