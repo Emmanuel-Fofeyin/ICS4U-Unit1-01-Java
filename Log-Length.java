@@ -23,7 +23,7 @@ final class LogTruck {
     *
     */
     private LogTruck() {
-	throw new IllegalStateException("Cannot be instantiated");
+        throw new IllegalStateException("Cannot be instantiated");
     }
 
     /**
